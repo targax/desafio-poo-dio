@@ -38,6 +38,7 @@ public class Main {
         devBruno.inscreverBootcamp(bootcamp);
         System.out.println("Conteudos Inscritos Bruno:" + devBruno.getConteudosInscritos());
         devBruno.progredir();
+        devBruno.progredir();
         System.out.println("-");
         System.out.println("Conteudos Inscritos Bruno:" + devBruno.getConteudosInscritos());
         System.out.println("Conteudos Concluidos Bruno:" + devBruno.getConteudosConcluidos());
